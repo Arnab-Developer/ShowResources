@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Show Resources",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/src/Run.ps1",
+            "args": [
+                ""
+            ]
+        }
+    ]
+}
